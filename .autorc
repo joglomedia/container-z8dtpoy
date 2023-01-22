@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "joglomedia",
+  "repo": "container-z8dtpoy",
+  "name": "joglomedia",
+}
